@@ -1,1 +1,1 @@
-Adding Application Wide Config.
+Application Wide Configuration.
